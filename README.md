@@ -1,8 +1,7 @@
 <h1 align="center">ʜɪ<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,ɪ'ᴍ Thilina </h1>
-<p align="leaft">
-  <img src="https://telegra.ph/file/c1b58b5b58c25cd392d0f.jpg" width='600"'>
 <h3 align="center">ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ sʀɪʟᴀɴᴋᴀ 🇱🇰,ɪ'ᴍ sᴛɪʟʟ ʟᴇᴀʀɪɴɢ.<h3>
-  
+  <p align="leaft">
+  <img src="https://telegra.ph/file/c1b58b5b58c25cd392d0f.jpg" width='600"'>
 - 👀 ɪ'ᴍ ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ʙᴀsᴇᴅ ᴀᴄᴛɪᴠɪᴛɪᴇs
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ
 - 💞 ᴀsᴋ ᴍᴇ ᴀɴʏᴛʜɪɴɢ ɪ'ᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ
