@@ -9,7 +9,7 @@
 - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: ![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white) or ![Telegeam](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 - 👨‍🎓 ғᴜɴ ғᴀᴄᴛ-sᴛɪʟʟ sᴛᴜᴅᴇɴᴛ
  
-<img align="left" alt="GIF" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=300px />
+<img align="left" alt="GIF" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=300px /><p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
 
 <h3 align="left">👤 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ ᴏɴ:</h3>
 <p align="left">
