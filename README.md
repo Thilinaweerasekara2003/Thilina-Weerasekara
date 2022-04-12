@@ -19,4 +19,5 @@
 <h3 align="left">📊ɢɪᴛʜᴜʙ sᴛᴀᴛs:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=ThilinaWeerasekara2003&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="ThilinaWeerasekara2003" /></p>
 
-- ![Profile views](https://komarev.com/ghpvc/?username=ThilinaWeerasekara2003&color=blue&style=flat-square&label=Profile+Views)
+![VisitorCount](https://profile-counter.glitch.me/{ThilinaWeerasekara2003}/count.svg)
+
